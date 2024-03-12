@@ -1,0 +1,14 @@
+<suite name="Herdx_Suite">
+    <listeners>
+        <listener class-name="Herdx_SourcePackage.Herdx_Listener"></listener>
+    </listeners>
+    <test name="Herdx_Test">
+        <classes>
+            <class name="Herdx_SourcePackage.Herxd_Multitag_create">
+
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
